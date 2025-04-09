@@ -2,4 +2,4 @@ streamlit>=1.26.0
 import numpy
 import pandas
 import skitlearn
-import mathplotlib
+import matplotlib.pyplot
