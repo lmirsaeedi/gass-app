@@ -5,10 +5,6 @@ st.title('🎈 App Name')
 st.write('Hello world!')
 
 from sklearn import datasets, ensemble
-import streamlit as st
-import numpy as np
-import pandas as pd
-import math
 
 st.write ("""### gas consumption """)
 
