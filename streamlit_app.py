@@ -5,20 +5,11 @@ st.title('🎈 App Name')
 st.write('Hello world!')
 
 from sklearn import datasets, ensemble
-
 st.write ("""### gas consumption """)
-
-
 st.write ("""Welcome to gas consumption app!""")
-
 with st.expander('Data'):
-
   st.sidebar.header('Enter your information:')
-
   df = pd.read_csv('datashahr4-st.csv')
-
-
-
 def users_input_features():
    global N_of_consumers
    global ave_temp_year
