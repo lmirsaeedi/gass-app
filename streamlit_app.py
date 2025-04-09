@@ -5,8 +5,6 @@ st.title('🎈 App Name')
 st.write('Hello world!')
 
 from sklearn import datasets, ensemble
-from sklearn.inspection import permutation_importance
-from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
 from sklearn.utils.fixes import parse_version
 
