@@ -5,7 +5,7 @@ st.title('🎈 App Name')
 st.write('Hello world!')
 
 
-import matplotlib
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
