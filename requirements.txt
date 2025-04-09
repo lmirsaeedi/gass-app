@@ -1,5 +1,5 @@
-streamlit>=1.26.0
-import numpy
-import pandas
-import skitlearn
-import matplotlib.pyplot
+streamlit
+ numpy
+ pandas
+ skitlearn
+ matplotlib.pyplot
