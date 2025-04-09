@@ -1,9 +1,9 @@
 # 📦 Streamlit App Starter Kit 
 ```
-⬆️ (Replace above with your app's name)
+⬆️ gass app
 ```
 
-Description of the app ...
+machine learning model
 
 ## Demo App
 
